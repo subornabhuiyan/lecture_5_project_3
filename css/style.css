@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(50, 205, 50, 0.068);
+}
+.title{
+    color:#B53471;
+}
+.title1{
+    color: blue;
+}
+
+.youtube{
+    width: 38%;
+    height: 415px;
+}
+.map{
+    width: 100%;
+    height: 400px;
+}
+video{
+    width: 30%;
+    height: auto;
+}
